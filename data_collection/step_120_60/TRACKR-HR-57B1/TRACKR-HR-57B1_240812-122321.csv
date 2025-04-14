@@ -1,0 +1,155 @@
+timestamp_received,rr_hr,hrv_uint8,hr,sensor_contact,ee_status,rr_interval,rr
+2024-08-12 12:23:36.693016,,True,120,Contact detected,False,False,
+2024-08-12 12:23:37.412094,,True,120,Contact detected,False,False,
+2024-08-12 12:23:38.401449,,True,120,Contact detected,False,False,
+2024-08-12 12:23:39.421869,,True,120,Contact detected,False,False,
+2024-08-12 12:23:40.411293,,True,120,Contact detected,False,False,
+2024-08-12 12:23:41.401577,,True,120,Contact detected,False,False,
+2024-08-12 12:23:42.421850,[122],True,120,Contact detected,False,True,[488]
+2024-08-12 12:23:43.412079,"[122, 123]",True,120,Contact detected,False,True,"[488, 485]"
+2024-08-12 12:23:44.431355,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:45.421707,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:46.412059,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:47.431335,"[122, 121]",True,120,Contact detected,False,True,"[488, 492]"
+2024-08-12 12:23:48.421687,"[122, 124]",True,120,Contact detected,False,True,"[488, 481]"
+2024-08-12 12:23:49.412041,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:50.401396,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:51.421738,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:52.411363,"[121, 124]",True,120,Contact detected,False,True,"[492, 481]"
+2024-08-12 12:23:53.401716,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:54.421989,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:55.411344,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:56.401697,"[122, 123]",True,120,Contact detected,False,True,"[488, 485]"
+2024-08-12 12:23:57.421970,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:58.411325,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:23:59.401678,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:00.421951,"[122, 121]",True,120,Contact detected,False,True,"[488, 492]"
+2024-08-12 12:24:01.411306,"[124, 122]",True,120,Contact detected,False,True,"[481, 488]"
+2024-08-12 12:24:02.401660,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:03.421932,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:04.411288,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:05.401640,"[123, 122]",True,120,Contact detected,False,True,"[485, 488]"
+2024-08-12 12:24:06.421914,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:07.411268,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:08.401621,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:09.421894,"[122, 123]",True,120,Contact detected,False,True,"[488, 485]"
+2024-08-12 12:24:10.411249,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:11.401602,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:12.421875,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:13.411230,"[122, 121]",True,120,Contact detected,False,True,"[488, 492]"
+2024-08-12 12:24:14.401583,"[124, 122]",True,120,Contact detected,False,True,"[481, 488]"
+2024-08-12 12:24:15.421856,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:16.411211,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:17.431483,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:18.421836,"[123, 122]",True,120,Contact detected,False,True,"[485, 488]"
+2024-08-12 12:24:19.411192,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:20.401545,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:21.421818,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:22.411173,"[121, 124]",True,120,Contact detected,False,True,"[492, 481]"
+2024-08-12 12:24:23.401527,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:24.421799,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:25.411154,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:26.401507,"[122, 121]",True,120,Contact detected,False,True,"[488, 492]"
+2024-08-12 12:24:27.421779,"[124, 122]",True,120,Contact detected,False,True,"[481, 488]"
+2024-08-12 12:24:28.411135,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:29.401488,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:30.421762,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:31.411116,"[121, 124]",True,120,Contact detected,False,True,"[492, 481]"
+2024-08-12 12:24:32.401469,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:33.421743,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:34.412094,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:35.401450,"[122, 123]",True,120,Contact detected,False,True,"[488, 485]"
+2024-08-12 12:24:36.421722,"[122, 122]",True,120,Contact detected,False,True,"[488, 488]"
+2024-08-12 12:24:37.412076,[122],True,120,Contact detected,False,True,[488]
+2024-08-12 12:24:38.401430,[122],True,120,Contact detected,False,True,[488]
+2024-08-12 12:24:39.421703,[122],True,120,Contact detected,False,True,[488]
+2024-08-12 12:24:40.411059,[80],True,120,Contact detected,False,True,[750]
+2024-08-12 12:24:41.401411,[61],True,120,Contact detected,False,True,[969]
+2024-08-12 12:24:42.421684,[61],True,120,Contact detected,False,True,[977]
+2024-08-12 12:24:43.412038,[61],True,120,Contact detected,False,True,[977]
+2024-08-12 12:24:44.401982,[61],True,120,Contact detected,False,True,[977]
+2024-08-12 12:24:45.421258,[61],True,118,Contact detected,False,True,[973]
+2024-08-12 12:24:46.411610,[61],True,110,Contact detected,False,True,[977]
+2024-08-12 12:24:47.401064,[61],True,102,Contact detected,False,True,[977]
+2024-08-12 12:24:48.422277,[61],True,94,Contact detected,False,True,[977]
+2024-08-12 12:24:49.441733,[61],True,86,Contact detected,False,True,[973]
+2024-08-12 12:24:50.432085,[61],True,78,Contact detected,False,True,[977]
+2024-08-12 12:24:51.421443,[61],True,68,Contact detected,False,True,[977]
+2024-08-12 12:24:52.411794,[61],True,63,Contact detected,False,True,[977]
+2024-08-12 12:24:53.401148,[61],True,62,Contact detected,False,True,[973]
+2024-08-12 12:24:54.421420,[61],True,61,Contact detected,False,True,[977]
+2024-08-12 12:24:55.411775,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:24:56.401129,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:24:57.421402,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:24:58.411754,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:24:59.401110,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:00.421383,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:01.411735,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:02.401091,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:03.421363,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:04.411716,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:05.401141,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:06.421395,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:07.411506,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:08.401859,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:09.421134,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:10.411487,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:11.401839,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:12.421116,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:13.411468,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:14.401821,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:15.421096,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:16.411449,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:17.401802,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:18.421077,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:19.411430,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:20.401830,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:21.391184,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:22.441378,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:23.431732,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:24.421085,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:25.411439,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:26.401792,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:27.391146,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:28.411634,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:29.400988,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:30.391342,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:31.411613,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:32.400969,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:33.391322,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:34.411594,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:35.400950,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:36.391302,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:37.411576,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:38.400930,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:39.391284,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:40.411111,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:41.401788,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:42.391143,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:43.411417,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:44.402768,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:45.391250,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:46.411523,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:47.401875,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:48.391231,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:49.412500,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:50.401856,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:51.391211,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:52.411484,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:53.401837,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:54.391193,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:55.441387,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:56.431419,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:57.421178,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:25:58.412289,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:25:59.402121,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:26:00.392311,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:26:01.412294,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:26:02.402283,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:26:03.392236,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:26:04.412270,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:26:05.402256,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:26:06.391603,[61],True,60,Contact detected,False,True,[973]
+2024-08-12 12:26:07.412280,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:26:08.432263,[61],True,60,Contact detected,False,True,[977]
+2024-08-12 12:26:09.392204,,True,60,Contact detected,False,False,

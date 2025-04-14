@@ -1,0 +1,313 @@
+ee_status,timestamp_received,rr_hr,hrv_uint8,hr,rr,sensor_contact,rr_interval
+False,2024-08-12 15:53:03.650629,,True,119,,Contact detected,False
+False,2024-08-12 15:53:04.669904,,True,119,,Contact detected,False
+False,2024-08-12 15:53:05.660257,,True,119,,Contact detected,False
+False,2024-08-12 15:53:06.650610,,True,119,,Contact detected,False
+False,2024-08-12 15:53:07.669885,,True,119,,Contact detected,False
+False,2024-08-12 15:53:08.660238,,True,119,,Contact detected,False
+False,2024-08-12 15:53:09.650591,,True,119,,Contact detected,False
+False,2024-08-12 15:53:10.699786,,True,119,,Contact detected,False
+False,2024-08-12 15:53:11.660219,,True,119,,Contact detected,False
+False,2024-08-12 15:53:12.650571,[73],True,119,[814],Contact detected,True
+False,2024-08-12 15:53:13.669847,[74],True,119,[810],Contact detected,True
+False,2024-08-12 15:53:14.660200,[73],True,119,[814],Contact detected,True
+False,2024-08-12 15:53:15.650553,[73],True,119,[814],Contact detected,True
+False,2024-08-12 15:53:16.669828,"[73, 73]",True,119,"[814, 814]",Contact detected,True
+False,2024-08-12 15:53:17.660181,[74],True,111,[810],Contact detected,True
+False,2024-08-12 15:53:18.649767,[73],True,104,[814],Contact detected,True
+False,2024-08-12 15:53:19.670000,[73],True,96,[814],Contact detected,True
+False,2024-08-12 15:53:20.660355,[73],True,88,[814],Contact detected,True
+False,2024-08-12 15:53:21.649748,"[74, 73]",True,75,"[810, 814]",Contact detected,True
+False,2024-08-12 15:53:22.669981,[73],True,73,[814],Contact detected,True
+False,2024-08-12 15:53:23.660335,[73],True,73,[814],Contact detected,True
+False,2024-08-12 15:53:24.649729,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:25.669962,[74],True,72,[810],Contact detected,True
+False,2024-08-12 15:53:26.660316,"[73, 73]",True,72,"[814, 814]",Contact detected,True
+False,2024-08-12 15:53:27.680588,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:28.669942,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:29.660297,[74],True,72,[810],Contact detected,True
+False,2024-08-12 15:53:30.650649,"[73, 73]",True,72,"[814, 814]",Contact detected,True
+False,2024-08-12 15:53:31.669923,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:32.660278,[74],True,72,[810],Contact detected,True
+False,2024-08-12 15:53:33.650669,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:34.669904,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:35.660257,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:36.650611,"[73, 74]",True,72,"[814, 810]",Contact detected,True
+False,2024-08-12 15:53:37.671880,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:38.660238,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:39.650592,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:40.669866,[74],True,72,[810],Contact detected,True
+False,2024-08-12 15:53:41.660259,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:42.650573,"[73, 73]",True,72,"[814, 814]",Contact detected,True
+False,2024-08-12 15:53:43.639929,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:44.660241,[74],True,72,[810],Contact detected,True
+False,2024-08-12 15:53:45.650553,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:46.640906,"[73, 73]",True,72,"[814, 814]",Contact detected,True
+False,2024-08-12 15:53:47.660181,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:48.650825,[74],True,72,[810],Contact detected,True
+False,2024-08-12 15:53:49.640181,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:50.660453,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:51.649809,"[73, 74]",True,72,"[814, 810]",Contact detected,True
+False,2024-08-12 15:53:52.640163,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:53.660436,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:54.649790,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:55.640142,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:56.660415,"[74, 73]",True,72,"[810, 814]",Contact detected,True
+False,2024-08-12 15:53:57.649771,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:58.670043,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:53:59.660396,[74],True,72,[810],Contact detected,True
+False,2024-08-12 15:54:00.679672,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:54:01.670024,"[73, 73]",True,72,"[814, 814]",Contact detected,True
+False,2024-08-12 15:54:02.660377,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:54:03.649733,[74],True,72,[810],Contact detected,True
+False,2024-08-12 15:54:04.640085,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:54:05.660359,[73],True,72,[814],Contact detected,True
+False,2024-08-12 15:54:06.649714,"[74, 76]",True,72,"[806, 784]",Contact detected,True
+False,2024-08-12 15:54:07.640066,[78],True,72,[761],Contact detected,True
+False,2024-08-12 15:54:08.660340,"[81, 83]",True,73,"[735, 715]",Contact detected,True
+False,2024-08-12 15:54:09.649696,[86],True,74,[697],Contact detected,True
+False,2024-08-12 15:54:10.640047,"[88, 91]",True,77,"[678, 659]",Contact detected,True
+False,2024-08-12 15:54:11.660322,[93],True,79,[640],Contact detected,True
+False,2024-08-12 15:54:12.649675,"[95, 97]",True,83,"[628, 614]",Contact detected,True
+False,2024-08-12 15:54:13.640030,"[99, 102]",True,88,"[602, 586]",Contact detected,True
+False,2024-08-12 15:54:14.660301,"[104, 105]",True,92,"[576, 568]",Contact detected,True
+False,2024-08-12 15:54:15.649656,"[107, 109]",True,96,"[556, 549]",Contact detected,True
+False,2024-08-12 15:54:16.640010,[111],True,98,[538],Contact detected,True
+False,2024-08-12 15:54:17.660282,"[112, 114]",True,102,"[534, 522]",Contact detected,True
+False,2024-08-12 15:54:18.649638,"[115, 117]",True,106,"[519, 511]",Contact detected,True
+False,2024-08-12 15:54:19.639991,"[119, 120]",True,109,"[503, 500]",Contact detected,True
+False,2024-08-12 15:54:20.660263,"[120, 121]",True,112,"[496, 492]",Contact detected,True
+False,2024-08-12 15:54:21.649618,"[123, 124]",True,115,"[485, 481]",Contact detected,True
+False,2024-08-12 15:54:22.669891,"[125, 126]",True,118,"[477, 473]",Contact detected,True
+False,2024-08-12 15:54:23.660244,"[127, 129]",True,120,"[469, 465]",Contact detected,True
+False,2024-08-12 15:54:24.650597,"[130, 130, 131]",True,123,"[461, 461, 455]",Contact detected,True
+False,2024-08-12 15:54:25.669872,"[131, 131]",True,125,"[455, 455]",Contact detected,True
+False,2024-08-12 15:54:26.660225,"[131, 130]",True,127,"[455, 461]",Contact detected,True
+False,2024-08-12 15:54:27.650578,"[129, 127]",True,127,"[465, 469]",Contact detected,True
+False,2024-08-12 15:54:28.639934,"[126, 124]",True,127,"[473, 481]",Contact detected,True
+False,2024-08-12 15:54:29.660206,"[123, 122]",True,126,"[485, 489]",Contact detected,True
+False,2024-08-12 15:54:30.650559,"[121, 120]",True,124,"[492, 500]",Contact detected,True
+False,2024-08-12 15:54:31.639914,"[119, 118]",True,122,"[503, 507]",Contact detected,True
+False,2024-08-12 15:54:32.660187,"[117, 115]",True,119,"[511, 519]",Contact detected,True
+False,2024-08-12 15:54:33.680460,[114],True,118,[526],Contact detected,True
+False,2024-08-12 15:54:34.669817,"[114, 112]",True,116,"[526, 534]",Contact detected,True
+False,2024-08-12 15:54:35.660168,"[110, 110]",True,114,"[541, 541]",Contact detected,True
+False,2024-08-12 15:54:36.650521,"[109, 110]",True,111,"[549, 545]",Contact detected,True
+False,2024-08-12 15:54:37.639876,[113],True,110,[530],Contact detected,True
+False,2024-08-12 15:54:38.660149,"[114, 114, 117]",True,109,"[526, 522, 511]",Contact detected,True
+False,2024-08-12 15:54:39.650501,"[118, 120]",True,110,"[507, 500]",Contact detected,True
+False,2024-08-12 15:54:40.639857,"[120, 121]",True,112,"[496, 492]",Contact detected,True
+False,2024-08-12 15:54:41.660130,"[123, 123]",True,115,"[485, 485]",Contact detected,True
+False,2024-08-12 15:54:42.650483,"[125, 126]",True,117,"[477, 473]",Contact detected,True
+False,2024-08-12 15:54:43.640835,"[127, 129]",True,120,"[469, 465]",Contact detected,True
+False,2024-08-12 15:54:44.660113,"[129, 131]",True,122,"[465, 458]",Contact detected,True
+False,2024-08-12 15:54:45.650464,"[131, 131]",True,124,"[458, 455]",Contact detected,True
+False,2024-08-12 15:54:46.639819,"[131, 134, 134]",True,127,"[455, 447, 447]",Contact detected,True
+False,2024-08-12 15:54:47.660093,"[134, 136]",True,128,"[447, 439]",Contact detected,True
+False,2024-08-12 15:54:48.650445,"[136, 136]",True,130,"[439, 439]",Contact detected,True
+False,2024-08-12 15:54:49.639800,"[137, 137]",True,131,"[435, 435]",Contact detected,True
+False,2024-08-12 15:54:50.660073,"[139, 139]",True,133,"[431, 431]",Contact detected,True
+False,2024-08-12 15:54:51.650427,"[140, 140]",True,134,"[427, 427]",Contact detected,True
+False,2024-08-12 15:54:52.639782,"[141, 140, 142]",True,136,"[424, 427, 420]",Contact detected,True
+False,2024-08-12 15:54:53.660053,"[141, 142]",True,137,"[424, 420]",Contact detected,True
+False,2024-08-12 15:54:54.650407,"[144, 144]",True,138,"[416, 416]",Contact detected,True
+False,2024-08-12 15:54:55.639762,"[144, 144, 145]",True,139,"[416, 416, 413]",Contact detected,True
+False,2024-08-12 15:54:56.660034,"[144, 146]",True,140,"[416, 409]",Contact detected,True
+False,2024-08-12 15:54:57.650387,"[144, 142, 142]",True,141,"[416, 420, 420]",Contact detected,True
+False,2024-08-12 15:54:58.639742,"[141, 140]",True,141,"[424, 427]",Contact detected,True
+False,2024-08-12 15:54:59.660016,"[137, 137]",True,140,"[435, 435]",Contact detected,True
+False,2024-08-12 15:55:00.650368,"[136, 134]",True,138,"[439, 447]",Contact detected,True
+False,2024-08-12 15:55:01.639724,"[134, 133]",True,136,"[447, 451]",Contact detected,True
+False,2024-08-12 15:55:02.659997,"[131, 130]",True,134,"[458, 461]",Contact detected,True
+False,2024-08-12 15:55:03.650349,"[129, 127, 126]",True,130,"[465, 469, 473]",Contact detected,True
+False,2024-08-12 15:55:04.639706,[124],True,129,[481],Contact detected,True
+False,2024-08-12 15:55:05.659977,"[123, 122]",True,126,"[485, 489]",Contact detected,True
+False,2024-08-12 15:55:06.680251,"[121, 120]",True,124,"[492, 500]",Contact detected,True
+False,2024-08-12 15:55:07.669606,"[119, 120]",True,122,"[503, 500]",Contact detected,True
+False,2024-08-12 15:55:08.659964,"[121, 121, 123]",True,119,"[492, 492, 485]",Contact detected,True
+False,2024-08-12 15:55:09.650311,"[124, 126]",True,119,"[481, 473]",Contact detected,True
+False,2024-08-12 15:55:10.639666,[126],True,119,[473],Contact detected,True
+False,2024-08-12 15:55:11.659940,"[127, 129, 129]",True,121,"[469, 465, 465]",Contact detected,True
+False,2024-08-12 15:55:12.650292,"[131, 131]",True,123,"[458, 458]",Contact detected,True
+False,2024-08-12 15:55:13.639648,"[133, 131]",True,125,"[451, 455]",Contact detected,True
+False,2024-08-12 15:55:14.659921,"[134, 134]",True,127,"[447, 447]",Contact detected,True
+False,2024-08-12 15:55:15.650273,"[135, 135, 136]",True,129,"[443, 443, 439]",Contact detected,True
+False,2024-08-12 15:55:16.639628,"[136, 137]",True,131,"[439, 435]",Contact detected,True
+False,2024-08-12 15:55:17.659902,"[139, 137]",True,132,"[431, 435]",Contact detected,True
+False,2024-08-12 15:55:18.650255,"[140, 139]",True,133,"[427, 431]",Contact detected,True
+False,2024-08-12 15:55:19.639610,"[141, 140]",True,135,"[424, 427]",Contact detected,True
+False,2024-08-12 15:55:20.719724,"[141, 142, 141]",True,136,"[424, 420, 424]",Contact detected,True
+False,2024-08-12 15:55:21.650235,"[142, 144]",True,137,"[420, 416]",Contact detected,True
+False,2024-08-12 15:55:22.670508,"[142, 144, 145]",True,139,"[420, 416, 413]",Contact detected,True
+False,2024-08-12 15:55:23.659863,"[144, 145]",True,140,"[416, 413]",Contact detected,True
+False,2024-08-12 15:55:24.650216,"[146, 145]",True,140,"[409, 413]",Contact detected,True
+False,2024-08-12 15:55:25.639612,"[146, 146, 146]",True,142,"[409, 409, 409]",Contact detected,True
+False,2024-08-12 15:55:26.659844,"[146, 148]",True,142,"[409, 405]",Contact detected,True
+False,2024-08-12 15:55:27.650197,"[148, 148]",True,143,"[405, 405]",Contact detected,True
+False,2024-08-12 15:55:28.640551,"[148, 146, 145]",True,144,"[405, 409, 413]",Contact detected,True
+False,2024-08-12 15:55:29.659825,"[145, 144]",True,144,"[413, 416]",Contact detected,True
+False,2024-08-12 15:55:30.650178,"[142, 141]",True,143,"[420, 424]",Contact detected,True
+False,2024-08-12 15:55:31.640532,"[140, 139, 137]",True,141,"[427, 431, 435]",Contact detected,True
+False,2024-08-12 15:55:32.659806,"[136, 135]",True,139,"[439, 443]",Contact detected,True
+False,2024-08-12 15:55:33.650159,"[134, 133]",True,136,"[447, 451]",Contact detected,True
+False,2024-08-12 15:55:34.639516,"[131, 131]",True,134,"[455, 458]",Contact detected,True
+False,2024-08-12 15:55:35.659787,"[129, 129]",True,132,"[465, 465]",Contact detected,True
+False,2024-08-12 15:55:36.650140,"[126, 125]",True,129,"[473, 477]",Contact detected,True
+False,2024-08-12 15:55:37.639495,"[124, 122]",True,127,"[481, 489]",Contact detected,True
+False,2024-08-12 15:55:38.659769,"[121, 120]",True,125,"[492, 496]",Contact detected,True
+False,2024-08-12 15:55:39.680041,"[122, 122]",True,122,"[489, 489]",Contact detected,True
+False,2024-08-12 15:55:40.670394,"[124, 125]",True,121,"[481, 477]",Contact detected,True
+False,2024-08-12 15:55:41.659749,"[126, 127]",True,121,"[473, 469]",Contact detected,True
+False,2024-08-12 15:55:42.650102,"[129, 129, 131]",True,122,"[465, 465, 458]",Contact detected,True
+False,2024-08-12 15:55:43.640455,"[131, 131]",True,124,"[458, 455]",Contact detected,True
+False,2024-08-12 15:55:44.659795,"[133, 133]",True,126,"[451, 451]",Contact detected,True
+False,2024-08-12 15:55:45.650147,"[134, 135]",True,128,"[447, 443]",Contact detected,True
+False,2024-08-12 15:55:46.640540,"[135, 136]",True,129,"[443, 439]",Contact detected,True
+False,2024-08-12 15:55:47.659776,"[137, 136]",True,131,"[435, 439]",Contact detected,True
+False,2024-08-12 15:55:48.650128,"[139, 139, 139]",True,133,"[431, 431, 431]",Contact detected,True
+False,2024-08-12 15:55:49.639547,"[140, 140]",True,134,"[427, 427]",Contact detected,True
+False,2024-08-12 15:55:50.659757,"[140, 141, 142]",True,136,"[427, 424, 420]",Contact detected,True
+False,2024-08-12 15:55:51.650109,"[141, 142]",True,137,"[424, 420]",Contact detected,True
+False,2024-08-12 15:55:52.640460,"[144, 142]",True,138,"[416, 420]",Contact detected,True
+False,2024-08-12 15:55:53.659735,"[144, 145, 144]",True,139,"[416, 413, 416]",Contact detected,True
+False,2024-08-12 15:55:54.650088,"[145, 145]",True,140,"[413, 413]",Contact detected,True
+False,2024-08-12 15:55:55.640442,"[146, 146]",True,141,"[409, 409]",Contact detected,True
+False,2024-08-12 15:55:56.659716,"[146, 146, 146]",True,142,"[409, 409, 409]",Contact detected,True
+False,2024-08-12 15:55:57.650068,"[148, 148]",True,143,"[405, 405]",Contact detected,True
+False,2024-08-12 15:55:58.640423,"[148, 148]",True,143,"[405, 405]",Contact detected,True
+False,2024-08-12 15:55:59.659697,"[149, 148, 146]",True,144,"[401, 405, 409]",Contact detected,True
+False,2024-08-12 15:56:00.650050,"[145, 145]",True,144,"[413, 413]",Contact detected,True
+False,2024-08-12 15:56:01.640402,"[142, 142]",True,144,"[420, 420]",Contact detected,True
+False,2024-08-12 15:56:02.659766,"[141, 140, 139]",True,142,"[424, 427, 431]",Contact detected,True
+False,2024-08-12 15:56:03.649619,"[137, 136]",True,139,"[435, 439]",Contact detected,True
+False,2024-08-12 15:56:04.669893,"[135, 134]",True,137,"[443, 447]",Contact detected,True
+False,2024-08-12 15:56:05.660246,"[133, 131]",True,135,"[451, 455]",Contact detected,True
+False,2024-08-12 15:56:06.649601,"[130, 130]",True,133,"[461, 461]",Contact detected,True
+False,2024-08-12 15:56:07.640004,"[127, 126]",True,130,"[469, 473]",Contact detected,True
+False,2024-08-12 15:56:08.660276,"[124, 124]",True,128,"[481, 481]",Contact detected,True
+False,2024-08-12 15:56:09.649571,"[122, 121]",True,126,"[489, 492]",Contact detected,True
+False,2024-08-12 15:56:10.639924,"[121, 123]",True,123,"[492, 485]",Contact detected,True
+False,2024-08-12 15:56:11.660198,"[124, 125]",True,122,"[481, 477]",Contact detected,True
+False,2024-08-12 15:56:12.679472,"[126, 127]",True,121,"[473, 469]",Contact detected,True
+False,2024-08-12 15:56:13.669825,"[129, 130, 131]",True,122,"[465, 461, 458]",Contact detected,True
+False,2024-08-12 15:56:14.660178,"[131, 131]",True,124,"[458, 455]",Contact detected,True
+False,2024-08-12 15:56:15.649533,"[133, 134]",True,126,"[451, 447]",Contact detected,True
+False,2024-08-12 15:56:16.639886,"[134, 135]",True,128,"[447, 443]",Contact detected,True
+False,2024-08-12 15:56:17.660159,"[135, 136]",True,129,"[443, 439]",Contact detected,True
+False,2024-08-12 15:56:18.650512,"[136, 137, 139]",True,131,"[439, 435, 431]",Contact detected,True
+False,2024-08-12 15:56:19.639867,"[139, 139]",True,133,"[431, 431]",Contact detected,True
+False,2024-08-12 15:56:20.660141,"[140, 140]",True,134,"[427, 427]",Contact detected,True
+False,2024-08-12 15:56:21.650494,"[141, 141, 142]",True,136,"[424, 424, 420]",Contact detected,True
+False,2024-08-12 15:56:22.639850,"[141, 142]",True,137,"[424, 420]",Contact detected,True
+False,2024-08-12 15:56:23.660062,"[144, 144]",True,138,"[416, 416]",Contact detected,True
+False,2024-08-12 15:56:24.650415,"[144, 144, 145]",True,139,"[416, 416, 413]",Contact detected,True
+False,2024-08-12 15:56:25.639770,"[145, 145]",True,140,"[413, 413]",Contact detected,True
+False,2024-08-12 15:56:26.660043,"[146, 146]",True,141,"[409, 409]",Contact detected,True
+False,2024-08-12 15:56:27.650396,"[146, 146, 148]",True,142,"[409, 409, 405]",Contact detected,True
+False,2024-08-12 15:56:28.639751,"[146, 148]",True,143,"[409, 405]",Contact detected,True
+False,2024-08-12 15:56:29.660024,"[149, 148]",True,143,"[401, 405]",Contact detected,True
+False,2024-08-12 15:56:30.649379,"[149, 146, 148]",True,144,"[401, 409, 405]",Contact detected,True
+False,2024-08-12 15:56:31.639733,"[145, 145]",True,144,"[413, 413]",Contact detected,True
+False,2024-08-12 15:56:32.660005,"[142, 142, 141]",True,143,"[420, 420, 424]",Contact detected,True
+False,2024-08-12 15:56:33.650358,"[140, 139]",True,142,"[427, 431]",Contact detected,True
+False,2024-08-12 15:56:34.639715,"[137, 136]",True,140,"[435, 439]",Contact detected,True
+False,2024-08-12 15:56:35.659987,"[135, 134]",True,137,"[443, 447]",Contact detected,True
+False,2024-08-12 15:56:36.650339,"[133, 131]",True,135,"[451, 455]",Contact detected,True
+False,2024-08-12 15:56:37.640693,"[131, 129]",True,133,"[458, 465]",Contact detected,True
+False,2024-08-12 15:56:38.630047,"[127, 127, 125]",True,129,"[469, 469, 477]",Contact detected,True
+False,2024-08-12 15:56:39.650320,[123],True,128,[485],Contact detected,True
+False,2024-08-12 15:56:40.670595,"[123, 121]",True,126,"[485, 492]",Contact detected,True
+False,2024-08-12 15:56:41.630028,"[121, 123, 124]",True,122,"[492, 485, 481]",Contact detected,True
+False,2024-08-12 15:56:42.650301,[125],True,122,[477],Contact detected,True
+False,2024-08-12 15:56:43.639656,"[126, 127]",True,121,"[473, 469]",Contact detected,True
+False,2024-08-12 15:56:44.630010,"[129, 129, 131]",True,122,"[465, 465, 458]",Contact detected,True
+False,2024-08-12 15:56:45.680202,"[131, 131]",True,124,"[458, 455]",Contact detected,True
+False,2024-08-12 15:56:46.669557,"[133, 134]",True,126,"[451, 447]",Contact detected,True
+False,2024-08-12 15:56:47.629990,"[134, 134]",True,128,"[447, 447]",Contact detected,True
+False,2024-08-12 15:56:48.650263,"[136, 135]",True,129,"[439, 443]",Contact detected,True
+False,2024-08-12 15:56:49.640616,"[137, 137, 137]",True,131,"[435, 435, 435]",Contact detected,True
+False,2024-08-12 15:56:50.629971,"[139, 139]",True,133,"[431, 431]",Contact detected,True
+False,2024-08-12 15:56:51.650244,"[140, 140]",True,134,"[427, 427]",Contact detected,True
+False,2024-08-12 15:56:52.639599,"[141, 141, 141]",True,136,"[424, 424, 424]",Contact detected,True
+False,2024-08-12 15:56:53.629952,"[142, 142]",True,137,"[420, 420]",Contact detected,True
+False,2024-08-12 15:56:54.650225,"[142, 144]",True,138,"[420, 416]",Contact detected,True
+False,2024-08-12 15:56:55.639580,"[144, 144, 145]",True,139,"[416, 416, 413]",Contact detected,True
+False,2024-08-12 15:56:56.629957,"[145, 145]",True,140,"[413, 413]",Contact detected,True
+False,2024-08-12 15:56:57.650206,"[146, 145]",True,141,"[409, 413]",Contact detected,True
+False,2024-08-12 15:56:58.639561,"[146, 148, 146]",True,142,"[409, 405, 409]",Contact detected,True
+False,2024-08-12 15:56:59.629914,"[148, 148]",True,143,"[405, 405]",Contact detected,True
+False,2024-08-12 15:57:00.650186,"[148, 148, 149]",True,144,"[405, 405, 401]",Contact detected,True
+False,2024-08-12 15:57:01.639543,"[148, 148]",True,144,"[405, 405]",Contact detected,True
+False,2024-08-12 15:57:02.629897,"[145, 145]",True,144,"[413, 413]",Contact detected,True
+False,2024-08-12 15:57:03.650167,"[144, 144, 141]",True,143,"[416, 416, 424]",Contact detected,True
+False,2024-08-12 15:57:04.639523,"[141, 139]",True,142,"[424, 431]",Contact detected,True
+False,2024-08-12 15:57:05.629875,"[139, 136]",True,140,"[431, 439]",Contact detected,True
+False,2024-08-12 15:57:06.650148,"[136, 134, 134]",True,137,"[439, 447, 447]",Contact detected,True
+False,2024-08-12 15:57:07.639504,[131],True,136,[455],Contact detected,True
+False,2024-08-12 15:57:08.629857,"[131, 130]",True,133,"[458, 461]",Contact detected,True
+False,2024-08-12 15:57:09.650129,"[129, 127, 125]",True,130,"[465, 469, 477]",Contact detected,True
+False,2024-08-12 15:57:10.639485,"[125, 123]",True,127,"[477, 485]",Contact detected,True
+False,2024-08-12 15:57:11.629838,[121],True,126,[492],Contact detected,True
+False,2024-08-12 15:57:12.650110,"[121, 123, 123]",True,123,"[492, 485, 485]",Contact detected,True
+False,2024-08-12 15:57:13.639466,"[125, 125]",True,122,"[477, 477]",Contact detected,True
+False,2024-08-12 15:57:14.629818,"[127, 129]",True,121,"[469, 465]",Contact detected,True
+False,2024-08-12 15:57:15.650094,"[129, 130]",True,122,"[465, 461]",Contact detected,True
+False,2024-08-12 15:57:16.639488,"[131, 131]",True,124,"[455, 458]",Contact detected,True
+False,2024-08-12 15:57:17.629801,"[133, 133, 134]",True,127,"[451, 451, 447]",Contact detected,True
+False,2024-08-12 15:57:18.679994,"[135, 135]",True,128,"[443, 443]",Contact detected,True
+False,2024-08-12 15:57:19.670345,"[136, 136]",True,130,"[439, 439]",Contact detected,True
+False,2024-08-12 15:57:20.629780,"[137, 137]",True,131,"[435, 435]",Contact detected,True
+False,2024-08-12 15:57:21.650053,"[139, 139]",True,133,"[431, 431]",Contact detected,True
+False,2024-08-12 15:57:22.639408,"[139, 141]",True,134,"[431, 424]",Contact detected,True
+False,2024-08-12 15:57:23.629761,"[140, 141, 141]",True,136,"[427, 424, 424]",Contact detected,True
+False,2024-08-12 15:57:24.650034,"[142, 142]",True,137,"[420, 420]",Contact detected,True
+False,2024-08-12 15:57:25.639390,"[142, 144]",True,138,"[420, 416]",Contact detected,True
+False,2024-08-12 15:57:26.629743,"[144, 144, 145]",True,139,"[416, 416, 413]",Contact detected,True
+False,2024-08-12 15:57:27.650015,"[144, 146]",True,140,"[416, 409]",Contact detected,True
+False,2024-08-12 15:57:28.639371,"[145, 146, 146]",True,141,"[413, 409, 409]",Contact detected,True
+False,2024-08-12 15:57:29.659643,"[146, 146]",True,142,"[409, 409]",Contact detected,True
+False,2024-08-12 15:57:30.649996,"[148, 148]",True,143,"[405, 405]",Contact detected,True
+False,2024-08-12 15:57:31.640349,"[148, 148, 149]",True,144,"[405, 405, 401]",Contact detected,True
+False,2024-08-12 15:57:32.630277,"[148, 148]",True,144,"[405, 405]",Contact detected,True
+False,2024-08-12 15:57:33.649592,"[146, 145, 144]",True,144,"[409, 413, 416]",Contact detected,True
+False,2024-08-12 15:57:34.639947,"[144, 141]",True,144,"[416, 424]",Contact detected,True
+False,2024-08-12 15:57:35.630257,"[141, 140]",True,142,"[424, 427]",Contact detected,True
+False,2024-08-12 15:57:36.649544,"[137, 137]",True,140,"[435, 435]",Contact detected,True
+False,2024-08-12 15:57:37.639886,"[136, 135, 133]",True,137,"[439, 443, 451]",Contact detected,True
+False,2024-08-12 15:57:38.630238,"[133, 131]",True,135,"[451, 458]",Contact detected,True
+False,2024-08-12 15:57:39.650311,"[130, 130]",True,132,"[461, 461]",Contact detected,True
+False,2024-08-12 15:57:40.639666,"[126, 126]",True,130,"[473, 473]",Contact detected,True
+False,2024-08-12 15:57:41.630019,"[124, 124]",True,128,"[481, 481]",Contact detected,True
+False,2024-08-12 15:57:42.650292,"[121, 121]",True,125,"[492, 492]",Contact detected,True
+False,2024-08-12 15:57:43.639648,"[123, 123]",True,123,"[485, 485]",Contact detected,True
+False,2024-08-12 15:57:44.630001,"[124, 126]",True,122,"[481, 473]",Contact detected,True
+False,2024-08-12 15:57:45.650273,"[126, 129]",True,121,"[473, 465]",Contact detected,True
+False,2024-08-12 15:57:46.639629,"[129, 130]",True,122,"[465, 461]",Contact detected,True
+False,2024-08-12 15:57:47.629982,"[131, 131]",True,124,"[458, 455]",Contact detected,True
+False,2024-08-12 15:57:48.650254,"[133, 133, 134]",True,126,"[451, 451, 447]",Contact detected,True
+False,2024-08-12 15:57:49.639610,"[134, 135]",True,128,"[447, 443]",Contact detected,True
+False,2024-08-12 15:57:50.629964,"[136, 136]",True,130,"[439, 439]",Contact detected,True
+False,2024-08-12 15:57:51.680156,"[137, 137]",True,131,"[435, 435]",Contact detected,True
+False,2024-08-12 15:57:52.669787,"[139, 139]",True,133,"[431, 431]",Contact detected,True
+False,2024-08-12 15:57:53.629799,"[139, 140, 141]",True,134,"[431, 427, 424]",Contact detected,True
+False,2024-08-12 15:57:54.649817,"[141, 141]",True,136,"[424, 424]",Contact detected,True
+False,2024-08-12 15:57:55.639895,"[142, 142]",True,137,"[420, 420]",Contact detected,True
+False,2024-08-12 15:57:56.630307,"[142, 142, 144]",True,138,"[420, 420, 416]",Contact detected,True
+False,2024-08-12 15:57:57.680671,"[145, 144]",True,139,"[413, 416]",Contact detected,True
+False,2024-08-12 15:57:58.640700,"[145, 145]",True,140,"[413, 413]",Contact detected,True
+False,2024-08-12 15:57:59.629589,"[146, 145, 146]",True,141,"[409, 413, 409]",Contact detected,True
+False,2024-08-12 15:58:00.649895,"[146, 148]",True,142,"[409, 405]",Contact detected,True
+False,2024-08-12 15:58:01.640543,"[146, 148, 148]",True,143,"[409, 405, 405]",Contact detected,True
+False,2024-08-12 15:58:02.630198,"[148, 149]",True,143,"[405, 401]",Contact detected,True
+False,2024-08-12 15:58:03.650059,"[148, 148, 146]",True,144,"[405, 405, 409]",Contact detected,True
+False,2024-08-12 15:58:04.640543,"[146, 144]",True,144,"[409, 416]",Contact detected,True
+False,2024-08-12 15:58:05.629904,"[144, 141]",True,144,"[416, 424]",Contact detected,True
+False,2024-08-12 15:58:06.650635,"[141, 140]",True,142,"[424, 427]",Contact detected,True
+False,2024-08-12 15:58:07.640592,"[139, 137]",True,141,"[431, 435]",Contact detected,True
+False,2024-08-12 15:58:08.630390,"[136, 135, 133]",True,137,"[439, 443, 451]",Contact detected,True
+False,2024-08-12 15:58:09.650657,"[133, 131]",True,135,"[451, 455]",Contact detected,True
+False,2024-08-12 15:58:10.639963,"[130, 129]",True,133,"[461, 465]",Contact detected,True
+False,2024-08-12 15:58:11.630086,"[127, 126]",True,130,"[469, 473]",Contact detected,True
+False,2024-08-12 15:58:12.650523,"[125, 123]",True,128,"[477, 485]",Contact detected,True
+False,2024-08-12 15:58:13.640662,"[122, 121]",True,125,"[489, 492]",Contact detected,True
+False,2024-08-12 15:58:14.630623,,True,125,,Contact detected,False

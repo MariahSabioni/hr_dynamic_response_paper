@@ -1,0 +1,155 @@
+ee_status,timestamp_received,rr,sensor_contact,hrv_uint8,rr_hr,rr_interval,hr
+False,2024-06-17 17:32:34.635871,,Sensor contact not supported,True,,False,0
+False,2024-06-17 17:32:35.630957,[1000],Sensor contact not supported,True,[60],True,0
+False,2024-06-17 17:32:37.628658,,Sensor contact not supported,True,,False,0
+False,2024-06-17 17:32:37.629660,,Sensor contact not supported,True,,False,0
+False,2024-06-17 17:32:38.619701,,Sensor contact not supported,True,,False,0
+False,2024-06-17 17:32:39.617156,,Sensor contact not supported,True,,False,0
+False,2024-06-17 17:32:40.615734,[1000],Sensor contact not supported,True,[60],True,0
+False,2024-06-17 17:32:41.613782,,Sensor contact not supported,True,,False,0
+False,2024-06-17 17:32:42.609608,"[23000, 5014]",Sensor contact not supported,True,"[2, 11]",True,60
+False,2024-06-17 17:32:43.611944,[998],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:32:44.608689,[996],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:32:45.607928,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:32:46.606644,,Sensor contact not supported,True,,False,60
+False,2024-06-17 17:32:47.598184,"[998, 1000]",Sensor contact not supported,True,"[60, 60]",True,60
+False,2024-06-17 17:32:48.598132,[998],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:32:49.594810,,Sensor contact not supported,True,,False,60
+False,2024-06-17 17:32:50.595600,"[1000, 997]",Sensor contact not supported,True,"[60, 60]",True,60
+False,2024-06-17 17:32:51.590620,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:32:52.585305,,Sensor contact not supported,True,,False,60
+False,2024-06-17 17:32:53.585083,"[999, 999]",Sensor contact not supported,True,"[60, 60]",True,60
+False,2024-06-17 17:32:54.580827,[999],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:32:55.577388,,Sensor contact not supported,True,,False,60
+False,2024-06-17 17:32:56.580700,"[999, 999]",Sensor contact not supported,True,"[60, 60]",True,60
+False,2024-06-17 17:32:57.575543,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:32:58.576719,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:32:59.570807,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:00.572008,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:01.569079,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:02.561810,[999],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:03.559212,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:04.556867,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:05.552430,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:06.549309,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:07.549701,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:08.551397,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:09.549190,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:10.544652,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:11.539116,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:12.538677,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:13.535866,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:14.529982,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:15.534181,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:16.532192,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:17.523890,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:18.521874,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:19.519520,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:20.515492,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:21.519131,,Sensor contact not supported,True,,False,60
+False,2024-06-17 17:33:22.509401,"[1000, 1000]",Sensor contact not supported,True,"[60, 60]",True,60
+False,2024-06-17 17:33:23.510294,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:24.512020,,Sensor contact not supported,True,,False,60
+False,2024-06-17 17:33:25.508565,"[1000, 1000]",Sensor contact not supported,True,"[60, 60]",True,60
+False,2024-06-17 17:33:26.507074,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:27.501900,,Sensor contact not supported,True,,False,60
+False,2024-06-17 17:33:28.498456,"[1000, 1000]",Sensor contact not supported,True,"[60, 60]",True,60
+False,2024-06-17 17:33:29.499137,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:30.491292,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:31.494118,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:32.491200,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:33.488076,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:34.480862,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:35.480671,[1000],Sensor contact not supported,True,[60],True,60
+False,2024-06-17 17:33:36.481578,"[1000, 809]",Sensor contact not supported,True,"[60, 74]",True,60
+False,2024-06-17 17:33:37.477616,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,60
+False,2024-06-17 17:33:38.471850,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,62
+False,2024-06-17 17:33:40.471203,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,64
+False,2024-06-17 17:33:40.472243,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,72
+False,2024-06-17 17:33:41.465889,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,95
+False,2024-06-17 17:33:42.459126,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,108
+False,2024-06-17 17:33:43.458668,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,112
+False,2024-06-17 17:33:44.455892,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,115
+False,2024-06-17 17:33:45.459151,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,117
+False,2024-06-17 17:33:46.450396,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,118
+False,2024-06-17 17:33:47.450606,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,119
+False,2024-06-17 17:33:48.449012,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,119
+False,2024-06-17 17:33:49.449119,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,119
+False,2024-06-17 17:33:50.442051,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:33:52.442235,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:33:52.442235,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:33:53.439226,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:33:54.432525,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:33:55.433933,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:33:56.427699,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:33:57.426639,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:33:58.426707,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:00.421161,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:00.422162,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:01.411691,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:02.416611,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:03.412141,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:04.409189,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:05.409648,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:06.406570,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:07.400361,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:08.401905,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:09.398139,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:10.396858,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:11.394128,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:12.384902,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:13.389032,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:14.886699,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:15.380659,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:16.381580,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:17.378237,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:18.376886,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:20.372206,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:20.374542,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:21.368819,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:22.365516,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:23.364998,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:24.361659,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:25.353066,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:26.356570,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:27.353587,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:28.351321,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:29.348244,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:30.345432,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:31.344321,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:32.341883,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:33.338544,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:34.336046,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:35.334482,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:36.331272,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:37.323961,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:38.326592,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:40.320747,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:40.321766,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:41.319170,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:42.315899,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:43.310466,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:44.310465,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:45.308343,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:46.303244,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:47.304161,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:48.301606,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:49.298572,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:50.296021,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:51.293749,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:52.291088,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:53.285174,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:54.285462,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:55.283171,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:56.280400,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:57.277975,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:59.273891,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:34:59.276642,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:35:00.273027,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:35:01.265654,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:35:02.260345,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:35:03.258805,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:35:04.261822,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:35:05.401962,"[500, 500]",Sensor contact not supported,True,"[120, 120]",True,120
+False,2024-06-17 17:35:06.757117,,Sensor contact not supported,True,,False,120
+False,2024-06-17 17:35:07.754038,,Sensor contact not supported,True,,False,120

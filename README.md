@@ -1,0 +1,7 @@
+This is the repository for the manuscript "Dynamic response of Bluetooth wearable heart rate monitors during rapid changes in heart rate".
+
+
+This paper addresses the dynamic characteristics of commercially available Bluetooth chest-worn heart rate (HR) monitors and their ability to capture rapid changes in heart rate. Studies have shown that these devices generally provide reliable HR and RR interval data under steady conditions. However, their dynamic performance during rapid HR changes remains unclear. Using synthetic ECG signals to simulate dynamic heart activity, we tested widely used HR monitors under different dynamic conditions and found that digital filtering limit their responsiveness to rapid HR changes. This is significant because such chest-worn monitors are often used as ground truth in research in Sports & Exercise. We see a relevant impact in many real-world use cases when sharp HR changes are important, such as high-intensity intermittent training. Moreover, we propose a simple method to evaluate the dynamic response of any commercial Bluetooth chest-worn HR monitor.
+
+Generated synthetic data and collected data are available on this GitHub repo.
+We will make our documented code also available upon acceptance of the manuscript. 
